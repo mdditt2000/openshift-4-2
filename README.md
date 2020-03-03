@@ -8,7 +8,7 @@ This configuration will add the following load balancer entries to the F5 BIGIP 
 * openshift-api-server (port 6443)
 * machine-config-server (port 22623)
 
-* BIGIP OpenShift API configuration [document](https://github.com/mdditt2000/openshift-3-11/blob/master/enviroment/standalone/big-ip-83/QuickStartGuide.md)
+* BIGIP OpenShift API configuration [example](https://github.com/mdditt2000/openshift-4-3/blob/master/lb-ocp4-3-api.json)
 
 
 
